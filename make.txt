@@ -1,0 +1,9 @@
+ビルド方法：以下のように-lcurlをつけてコンパイルします。
+
+gcc main.c -lcurl
+
+MSYS2のコンソールで以下のコマンドでcurlをインストールしてください
+
+pacman -S mingw-w64-x86_64-curl
+
+httpclientについては動画を用意してます。
